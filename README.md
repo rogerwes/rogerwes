@@ -8,5 +8,5 @@
 - 🤔 I’m looking for help with: writing better Javascript tests
 - 💬 Ask me about: really anything, I'm kind of an open book
 - 📫 How to reach me: wesleyrogers09@gmail.com
-- ⚡ Fun fact: I enjoy skiing both uphill and downhil
+- ⚡ Fun fact: I enjoy skiing both uphill and downhill
 
